@@ -28,6 +28,8 @@ Albin Shrestha, Zac Galer, Connor Kite, and Mark Cheng
 
 Open project in Xcode and run using an iPhone 12 Pro simulator
 
+## Demo
+
 [![Demo video](https://img.youtube.com/vi/WlKL8QPWLsU/0.jpg)](https://youtu.be/WlKL8QPWLsU "A Knight in Space Demo")
 
 ## Presentation
